@@ -48,7 +48,7 @@ function Navbar() {
                   : 'navnarListItemName'
               }
             >
-              Offer
+              Offers
             </p>
           </li>
           <li className='navbarListItem'>
